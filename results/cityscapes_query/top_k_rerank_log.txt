@@ -1,0 +1,10 @@
+Image ID: dataset/cityscapes/stuttgart_01/stuttgart_01_000000_004472_leftImg8bit.png, Score: 0.8568341732025146
+Image ID: dataset/cityscapes/stuttgart_02_delete_gt/stuttgart_02_000000_005189_leftImg8bit.png, Score: 0.8560197353363037
+Image ID: dataset/cityscapes/stuttgart_02_delete_gt/stuttgart_02_000000_005190_leftImg8bit.png, Score: 0.8553482294082642
+Image ID: dataset/cityscapes/stuttgart_02_delete_gt/stuttgart_02_000000_005196_leftImg8bit.png, Score: 0.8549236059188843
+Image ID: dataset/cityscapes/stuttgart_02_delete_gt/stuttgart_02_000000_005197_leftImg8bit.png, Score: 0.8536893725395203
+Image ID: dataset/cityscapes/stuttgart_01/stuttgart_01_000000_004473_leftImg8bit.png, Score: 0.8509528636932373
+Image ID: dataset/cityscapes/stuttgart_02_delete_gt/stuttgart_02_000000_005613_leftImg8bit.png, Score: 0.8506414294242859
+Image ID: dataset/cityscapes/stuttgart_01/stuttgart_01_000000_004471_leftImg8bit.png, Score: 0.8502881526947021
+Image ID: dataset/cityscapes/stuttgart_02_delete_gt/stuttgart_02_000000_005612_leftImg8bit.png, Score: 0.8497912287712097
+Image ID: dataset/cityscapes/stuttgart_02_delete_gt/stuttgart_02_000000_005194_leftImg8bit.png, Score: 0.8483469486236572

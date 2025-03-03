@@ -1,0 +1,12 @@
+2025-02-19 01:03:57,332 - __main__ - INFO - Logging initialized. Logs are being saved to ../logs/cityscapes/cityscapes_q11.log
+2025-02-19 01:04:01,548 - __main__ - INFO - Collection cityscapes_vit32_new already exists. Loading the collection.
+2025-02-19 01:04:01,561 - __main__ - INFO - Collection cityscapes_vit32_new loaded successfully.
+2025-02-19 01:04:01,562 - __main__ - INFO - Using prompt: [a person wearing the black suit walking on the crosswalk]
+2025-02-19 01:04:01,562 - __main__ - INFO - Using rerank model: Vit-B-32
+2025-02-19 01:04:01,562 - __main__ - INFO - Using output path: ../results/0217_10_cityscapes_q11
+2025-02-19 01:04:02,299 - __main__ - INFO - search_similar_images executed in 0.20 seconds
+2025-02-19 01:08:09,654 - __main__ - INFO - Re-rank processing time: 247.35 seconds
+2025-02-19 01:08:09,657 - __main__ - INFO - Top 10 unique re-rank results log saved to ../results/cityscapes_q11/top_k_rerank_log.txt
+2025-02-19 01:08:09,658 - __main__ - INFO - unique_dino_reranker executed in 247.36 seconds
+2025-02-19 01:08:09,658 - __main__ - INFO - Total execution time: 252.33 seconds
+

@@ -1,0 +1,7 @@
+dataset
+build
+GroundingDINO
+.vscode
+*.egg-info
+*.pyc
+__pycache__
