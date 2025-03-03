@@ -1,6 +1,7 @@
 dataset
 build
 GroundingDINO
+model/owl_image_encoder_patch32.engine
 .vscode
 *.egg-info
 *.pyc
